@@ -141,3 +141,31 @@ li a{
     padding-top: 0;
     
   }
+
+  .estrutura-texto1{
+    color: aliceblue;
+    margin: 30px;
+  }
+  
+  .texto-recursos{
+    color: white;
+    display: flex;
+  }
+  
+  .estrutura-universal{
+  
+    background-color: #333333;
+    display: flex;
+    align-items: center;
+    flex-direction:row;
+    gap: 160px;
+    margin: 10px;
+    text-align: left;
+    
+  }
+  
+  .estrutura-universal2{
+   display: flex;
+   background-color: #333333;
+  
+  }
